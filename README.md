@@ -1,6 +1,8 @@
 # Covers
-<img src="https://github.com/EPTIC-Solutions/art/blob/master/cover.png" width="500">
-<img src="https://github.com/EPTIC-Solutions/art/blob/master/cover-reverse.png" width="500">
+<p align="center">
+  <img src="https://github.com/EPTIC-Solutions/art/blob/master/cover.png" width="500">
+  <img src="https://github.com/EPTIC-Solutions/art/blob/master/cover-reverse.png" width="500">
+</p>
 
 # Profile Images
 <table align="center">
